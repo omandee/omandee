@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teoman</h1>
 <h3 align="center">A passionate database administrator from Istanbul, Türkiye</h3>
 
-- 🔭 I’m currently working in fintech projects of BPN, [KLIQ](https://www.kliq.com.tr/)
+- 🔭 I’m currently available for work
 
 - 🌱 I’m currently learning **PostgreSQL, SQL Server, MySQL, MongoDB, Elasticsearch, Hadoop, Hive, Kafka**
 
